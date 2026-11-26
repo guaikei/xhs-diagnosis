@@ -6,6 +6,11 @@ name: xhs-diagnosis
 description: "小红薯账号诊断数据只读技能：关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红书、小红薯、xhs、rednote、笔记链接、博主主页、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.2.3
+display_name: "小红薯账号诊断数据｜博主作品·作品表现·评论反馈·对标账号"
+display_name_en: "Xiaohongshu Diagnosis"
+description_zh: "小红薯账号诊断公开数据（只读）：笔记详情、评论舆情、博主作品与粉丝获赞收藏、关键词搜笔记，为账号诊断提供结构化 JSON 数据"
+description_en: "Read-only Xiaohongshu account-diagnosis data source, no login to your account, no posting, liking, commenting or following, no ban risk. Search public notes by keyword with type/sort/time filters, fetch single-note details, pull comment threads with recent-day filtering for sentiment reading, and read creator post lists plus profile stats (limit 0 returns follower/liked/collected totals) to benchmark rival accounts. Everything returns as structured JSON in one envelope for Excel, BI or AI workflows - audit your own posting performance, read comment feedback, benchmark competitor accounts and turn findings into a diagnosis report. Monthly caps: search 40, posts 30, comments 20; pay-per-use up to 10000 items per call."
+author: "新郑市怪奇信息技术工作室"
 category: 数据分析
 homepage: https://www.guaikei.com
 metadata:
