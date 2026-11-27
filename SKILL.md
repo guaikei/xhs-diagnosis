@@ -1,8 +1,8 @@
 ---
 summary: 小红薯账号诊断公开数据（只读）：笔记详情、评论舆情、博主作品与粉丝获赞收藏、关键词搜笔记，为账号诊断提供结构化 JSON 数据。触发词：小红薯账号诊断、小红薯账号数据、小红薯对标账号、xhs account diagnosis、rednote account analytics。
 displayName: 小红薯账号诊断数据｜博主作品·作品表现·评论反馈·对标账号
-slug: xhs-diagnosis
-name: xhs-diagnosis
+slug: xhs-zhenduan
+name: xhs-zhenduan
 description: "小红薯账号诊断数据只读技能：关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红书、小红薯、xhs、rednote、笔记链接、博主主页、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.2.3
