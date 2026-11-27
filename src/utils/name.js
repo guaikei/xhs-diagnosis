@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const FALLBACK_NAME = "xhs-zhenduan";
+const FALLBACK_NAME = "xhs-diagnosis";
 
 let cached = null;
 function skillName() {
